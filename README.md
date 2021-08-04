@@ -2,25 +2,23 @@
 ## Overview of the analysis: 
 The purpose of this analysis is to determine the number Pewlett-Hackard retiring employees per title. Additionally, to identify employees who are eligible to participate in a mentorship program.
 
-## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+## Results: 
 
---screen shot--
--From the analysis Pewlett-Hackard is going to have a large number of Senior Engineers and Senior Staff retiring. 
+![unique_titles](https://user-images.githubusercontent.com/84742544/128224613-bc87e988-ca6c-4a3b-973a-c91e9370edcc.PNG)
 
+- From the analysis Pewlett-Hackard is going to have a large number of Senior Engineers and Senior Staff retiring. 
 
-It would be a good idea to utilize the mentorship eligible employees to start a formalized mentorship program so they can start training the next generation of Pewlett-Hackard Senior Engineers and Senior Staff. 
+- It would be a good idea to utilize the mentorship eligible employees to start a formalized mentorship program so they can start training the next generation of Pewlett-Hackard Senior Engineers and Senior Staff. 
 
+![unique_titles](https://user-images.githubusercontent.com/84742544/128224613-bc87e988-ca6c-4a3b-973a-c91e9370edcc.PNG)
 
---screen-shot--
-
--Pewlett-Hackard should be prioritizing the hiring of junior to mid-level engineers so they can step up once the "silver tsunami" occurs.
-
+- Pewlett-Hackard should be prioritizing the hiring of junior to mid-level engineers so they can step up once the "silver tsunami" occurs.
 
 -  Pewlett-Hackard might take this opportunity to look at downsizing certain business areas to become more efficient.
 downsizing certain business areas to shed expenses, look for efficiencies and potentially re-focus on core mission. 
 
 
-## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+## Summary:
 
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
